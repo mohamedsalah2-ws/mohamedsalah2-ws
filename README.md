@@ -1,9 +1,59 @@
-Hi, I'm Mohamed Salah 👋
+# Hi, I'm Mohamed Salah 👋
 
-🤖 Automation Engineer & Frontend Developer
+### 🤖 Automation Engineer | Frontend Developer | AI Product Enthusiast
 
-I build smart n8n workflows that connect tools, eliminate manual work, and run 24/7 — from RAG chatbots to multi-agent systems on WhatsApp and Telegram. On the frontend side, I focus on clean, pixel-perfect interfaces with a sharp eye for design and animation.
+I build intelligent automation systems and modern web experiences that solve real-world problems.
 
-I also practice Vibe Coding ⚡ and work in AI Product Management 🧠 — turning rough ideas into shipped products, fast. I build and customize WordPress websites too, from theme development to performance optimization.
+🚀 **What I Do**
 
-CS & AI graduate 🎓, currently going full stack 🚀
+- 🤖 **AI Automation:** Building smart n8n workflows, AI agents, RAG chatbots, and multi-agent systems.
+- 💬 **AI Integrations:** Developing intelligent conversational agents for WhatsApp, Telegram, and Messenger.
+- 🎨 **Frontend Development:** Creating modern, responsive, pixel-perfect interfaces with smooth animations.
+- ⚡ **Vibe Coding:** Turning ideas into functional products using AI-assisted development.
+- 🧠 **AI Product Management:** Transforming concepts into practical AI-powered solutions.
+- 🌐 **WordPress Development:** Customizing themes, developing websites, and optimizing performance.
+
+### 🛠️ Tech & Tools
+
+**Automation & AI**
+- n8n
+- AI Agents & Multi-Agent Systems
+- RAG & LLMs
+- MCP
+- API Integrations
+
+**Frontend Development**
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UI/UX & Animations
+
+**Other Skills**
+- WordPress
+- REST APIs
+- Git & GitHub
+- AI-Assisted Development
+
+### 🚀 Featured Projects
+
+- **n8n AI Automation:** AI-powered workflows and intelligent agents.
+- **Multi-Agent Systems:** Text, voice, and image-based AI agents.
+- **RAG Chatbots:** Retrieval-Augmented Generation applications.
+- **WhatsApp & Telegram Agents:** Intelligent conversational automation.
+
+### 🎯 Currently
+
+- Exploring advanced AI Agent architectures.
+- Building full-stack applications.
+- Improving my frontend and backend development skills.
+- Experimenting with AI-powered product development.
+
+### 📫 Connect With Me
+
+- GitHub: [@mohamedsalah2-ws](https://github.com/mohamedsalah2-ws)
+
+---
+
+⭐ *Building smarter systems, one workflow at a time.*
+
